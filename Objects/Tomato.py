@@ -1,5 +1,4 @@
-from GameFrame import RoomObject
-from GameFrame import Globals
+from GameFrame import RoomObject, Globals
 
 
 class Tomato(RoomObject):
