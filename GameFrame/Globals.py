@@ -16,7 +16,7 @@ class Globals:
     window_name = 'Tomato Tapper'
 
     # - Set the order of the rooms - #
-    levels = ["IntroRoom"]
+    levels = ["IntroRoom", "MainRoom"]
 
     # - Set the starting level - #
     start_level = 0
