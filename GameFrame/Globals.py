@@ -13,10 +13,10 @@ class Globals:
     LIVES = 3
 
     # - Set the Window display name - #
-    window_name = 'GF Game'
+    window_name = 'Tomato Tapper'
 
     # - Set the order of the rooms - #
-    levels = ["WelcomeScreen", "Level1", "EndGame"]
+    levels = ["IntroRoom"]
 
     # - Set the starting level - #
     start_level = 0
