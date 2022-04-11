@@ -38,3 +38,6 @@ class Globals:
 
     # Tomatoes per second
     tps = 0
+
+    # Tapper cost
+    tapper_cost = 5
